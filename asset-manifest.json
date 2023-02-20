@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rc06_forms-otherEvents/static/css/main.c2cab247.css",
+    "main.js": "/rc06_forms-otherEvents/static/js/main.2e2a1313.js",
+    "index.html": "/rc06_forms-otherEvents/index.html",
+    "main.c2cab247.css.map": "/rc06_forms-otherEvents/static/css/main.c2cab247.css.map",
+    "main.2e2a1313.js.map": "/rc06_forms-otherEvents/static/js/main.2e2a1313.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.2e2a1313.js"
+  ]
+}
